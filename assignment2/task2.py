@@ -1,4 +1,4 @@
-
+# Task2 : Sum of the numbers from 1 to 50 using for loop
 i=1
 sum=0
 
